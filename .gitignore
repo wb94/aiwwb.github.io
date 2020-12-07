@@ -1,5 +1,6 @@
 CNAME
 _site
-.DS_Store
-.jekyll-cache
 .sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
