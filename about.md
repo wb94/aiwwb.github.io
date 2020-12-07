@@ -7,3 +7,4 @@ permalink: /about/
 > 仅供学习测试使用
 
 * [github](https://github.com/wb94)
+* [email](504187563@qq.com)
